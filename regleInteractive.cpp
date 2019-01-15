@@ -1,5 +1,5 @@
-#include "regleInteractive.h"
-#include "pch.h"
+#include "regleInteractive.h" 
+#include "pch.h" //Obligatoire sur Visual Studio 2017
 #include <iostream>
 
 void regleDuJeu()
